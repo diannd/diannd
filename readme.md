@@ -3,11 +3,10 @@ My name is *Dian Nurdiana*. Software Engineer from Bekasi, Indonesia. I have som
 
 
 ## Skills ##
-- [x] Golang
-- [x] MySQL
+- [X] Golang
+- [X] MySQL
 - [X] Docker
-- [x] AWS
+- [X] AWS
 
 ## My Github Stats ##
----
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=diannd)
